@@ -1,4 +1,4 @@
-package com.nv.finalexam.models.entities;
+package com.byun.finalexam.models.entities;
 
 import java.io.Serializable;
 
