@@ -1,4 +1,4 @@
-package com.nv.finalexam.controllers;
+package com.byun.finalexam.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.nv.finalexam.models.entities.Product;
-import com.nv.finalexam.services.ProductService;
+import com.byun.finalexam.models.entities.Product;
+import com.byun.finalexam.services.ProductService;
 
 @RestController
 @RequestMapping("/api/products")
