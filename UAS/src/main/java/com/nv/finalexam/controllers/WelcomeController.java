@@ -1,4 +1,4 @@
-package com.nv.finalexam.controllers;
+package com.byun.finalexam.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
