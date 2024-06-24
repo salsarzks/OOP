@@ -1,4 +1,4 @@
-package com.nv.finalexam.services;
+package com.byun.finalexam.services;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.nv.finalexam.models.entities.Product;
-import com.nv.finalexam.models.repos.ProductRepo;
+import com.byun.finalexam.models.entities.Product;
+import com.byun.finalexam.models.repos.ProductRepo;
 
 import jakarta.transaction.Transactional;
 
